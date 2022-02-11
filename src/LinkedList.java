@@ -133,7 +133,7 @@ public class LinkedList {
 
         // create array lists with the values of the linked lists
         ArrayList<Integer> valuesList1 = listToArray(this.head, new ArrayList<Integer>());
-        ArrayList<Integer> valuesList2 = listToArray(this.head, new ArrayList<Integer>());
+        ArrayList<Integer> valuesList2 = listToArray(ll.head, new ArrayList<Integer>());
 
         // sort the array lists values
         valuesList1.sort(null);

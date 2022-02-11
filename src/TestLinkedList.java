@@ -85,7 +85,7 @@ public class TestLinkedList {
         ll2.add(2);
         ll2.add(5);
         ll2.add(1);
-        ll2.add(3);
+        ll2.add(7);
 
         // print ll1 and ll2
         System.out.println("ll1: " + ll1); // 5, 3, 2, 1
